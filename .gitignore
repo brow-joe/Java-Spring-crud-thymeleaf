@@ -1,6 +1,6 @@
 .classpath
 .project
-.log
+derby.log
 .settings/
 target/
 data/
